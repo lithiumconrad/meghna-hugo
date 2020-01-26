@@ -1,7 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: Our Works
+  title: Selected Works
   portfolio_item:
   - name: PASO
     image: images/portfolio/portfolio-1.jpg
