@@ -18,21 +18,17 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
+URL = "contact"
+name = "Contact"
 weight = 3
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
 [[menu.main]]
 URL = "blog"
 name = "Blog"
-weight = 6
+weight = 2
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 7
+URL = "portfolio"
+name = "Portfolio"
+weight = 1
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
