@@ -4,10 +4,10 @@ portfolio:
   title: Our Works
   portfolio_item:
   - name: PASO
-    image: ''
+    image: images/portfolio/portfolio-1.jpg
     image_webp: https://vimeo.com/386801940
     categories: ''
-    content: ''
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     link: "#"
   - name: Tag Design
     image: images/portfolio/portfolio-1.jpg
